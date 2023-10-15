@@ -1,8 +1,4 @@
 
-
-
-
-
     const logoutButton = document.getElementById('logoutButton');
   
     const broadcastChannel = new BroadcastChannel('myChannel'); 
